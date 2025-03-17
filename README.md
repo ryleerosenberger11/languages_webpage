@@ -13,3 +13,6 @@ shift languages that it influences to the right, and
 shift languages that it is influenced by to the left.
 Clicking on a language name will display its year and creator.
 Clicking again will hide the year and creator.
+
+To run this program:
+Open the html file and open with live server.
